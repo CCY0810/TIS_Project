@@ -1,12 +1,8 @@
 <h1>Assignment 1 - Report on Visit to NALI 2023</h1>
 <h2>Reflection</h2>
 <h3>Summary:</h3>
-<p>From the visit to NALI 2023, I have gained a lot of insight about NALI research and innovation products in teaching and learning through exhibitions and workshops. Through presentation and interview with the booth’s speaker I have gained a deeper understanding based on the topic of their research. For example, research about Secondary School Students’ Performance, Motivation, and Vocabulary Retention Through the Implementation of Augmented Reality in English Language Classroom made me to have a deeper understanding on the effectiveness of implementation of augmented reality (AR) for teaching and learning. Moreover, as a Computer Science (Graphic and Multimedia) student, I also have gained the information about the use of Virtual Reality (VR) that plays a vital role in education. 
-</p>
+<p>From the visit to NALI 2023, I have gained a lot of insight about NALI research and innovation products in teaching and learning through exhibitions and workshops. Through presentation and interview with the booth’s speaker I have gained a deeper understanding based on the topic of their research. For example, research about Secondary School Students’ Performance, Motivation, and Vocabulary Retention Through the Implementation of Augmented Reality in English Language Classroom made me to have a deeper understanding on the effectiveness of implementation of augmented reality (AR) for teaching and learning. Moreover, as a Computer Science (Graphic and Multimedia) student, I also have gained the information about the use of Virtual Reality (VR) that plays a vital role in education. </p>
 <h3>Suggestion:</h3>
-<p>I hope that the number of exhibitions and workshops for NALI 2023 can be increased so that more students can obtain more knowledge. In addition, I also hope that the booth’s speakers can present their research by using ICT application rather than speech.
-</p> 
+<p>I hope that the number of exhibitions and workshops for NALI 2023 can be increased so that more students can obtain more knowledge. In addition, I also hope that the booth’s speakers can present their research by using ICT application rather than speech.</p> 
 <h3>Others:</h3>
-<p>
-Through this visit, I have learned about the importance of resilience of an individual to manage and overcome the obstacles in this era of globalization. Besides, this visit also has attracted my intention about the research and development of ICT in various sectors such as education. In conclusion, I will maintain my passion in continuous learning and adapting to the creativity and innovation of technology.
-</p>
+<p>Through this visit, I have learned about the importance of resilience of an individual to manage and overcome the obstacles in this era of globalization. Besides, this visit also has attracted my intention about the research and development of ICT in various sectors such as education. In conclusion, I will maintain my passion in continuous learning and adapting to the creativity and innovation of technology.</p>
